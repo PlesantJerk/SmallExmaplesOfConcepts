@@ -1,0 +1,7 @@
+E:\Repos\AppDomainShnapDomain\AppDomainShnapDomain\bin\Debug\AppDomainShnapDomain.exe.config
+E:\Repos\AppDomainShnapDomain\AppDomainShnapDomain\bin\Debug\AppDomainShnapDomain.exe
+E:\Repos\AppDomainShnapDomain\AppDomainShnapDomain\bin\Debug\AppDomainShnapDomain.pdb
+E:\Repos\AppDomainShnapDomain\AppDomainShnapDomain\obj\Debug\AppDomainShnapDomain.csproj.AssemblyReference.cache
+E:\Repos\AppDomainShnapDomain\AppDomainShnapDomain\obj\Debug\AppDomainShnapDomain.csproj.CoreCompileInputs.cache
+E:\Repos\AppDomainShnapDomain\AppDomainShnapDomain\obj\Debug\AppDomainShnapDomain.exe
+E:\Repos\AppDomainShnapDomain\AppDomainShnapDomain\obj\Debug\AppDomainShnapDomain.pdb
